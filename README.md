@@ -53,3 +53,4 @@ cd mido
 
 - [Alann200](https://github.com/Alann200)
 - [Neutron Developers](https://github.com/NeutronDevelopers/mido)
+- [TeamHorizon](https://github.com/TeamHorizon)
