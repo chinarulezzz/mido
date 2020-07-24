@@ -1,6 +1,6 @@
 <p align="center">
  <img alt="nethunter-logo"
-      src="https://raw.githubusercontent.com/chinarulezzz/mido/master/nethunter-logo.png"/>
+      src="https://raw.githubusercontent.com/chinarulezzz/mido/nethunter-oreo/nethunter-logo.png"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@ git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarc
 1. Download kernel sources.
 
 ```bash
-git clone https://github.com/chinarulezzz/mido.git
+git clone https://github.com/chinarulezzz/mido.git -b nethunter-oreo
 cd mido
 ```
 
